@@ -1,0 +1,7 @@
+# Track only a tiny whitelist for this class project
+*
+!*/
+!.gitignore
+!src/include/access/nbtree.h
+!src/backend/access/nbtree/nbtutils.c
+!src/backend/utils/misc/guc_tables.c
