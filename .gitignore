@@ -5,3 +5,4 @@
 !src/include/access/nbtree.h
 !src/backend/access/nbtree/nbtutils.c
 !src/backend/utils/misc/guc_tables.c
+!src/backend/access/nbtree/nbtsearch.c
